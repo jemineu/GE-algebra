@@ -1,5 +1,6 @@
 First of all, you should edit the main code to satisfy your set.
-Secondly, as an example of finding those of order 3, we got used the following code after editing and running the main code file:
+Secondly, as an example of finding those of order 3, we got used the following code after editing the main code to let Y have 3 elements,
+and editing the "*.csv" file, then after running the code file, we use the following code as follows:
 
 
 for x,y in product(Y,Y):
