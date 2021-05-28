@@ -1,0 +1,6 @@
+*,O,a,b,c,d
+O,O,a,b,c,d
+a,O,O,b,b,O
+b,O,a,O,O,d
+c,O,a,O,O,d
+d,O,O,c,c,O
