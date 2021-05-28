@@ -1,0 +1,11 @@
+First of all, you should edit the main code to satisfy your set.
+Secondly, as an example of finding those of order 3, we got used the following code after editing and running the main code file:
+
+
+for x,y in product(Y,Y):
+	t[2][3]=x
+	t[3][2]=y
+	if gex.ge(Y)==True:
+		print(t)
+
+		
