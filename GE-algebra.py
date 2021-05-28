@@ -1,6 +1,7 @@
 #!/bin/python
 
-    #Our sets, X, Y, and Homomorphism##This lists should 
+    #Our sets, X, Y, and Homomorphism
+    #This lists should 
     #be edited if we want to use different elements
     #Note that 'Z' denotes Zero (0), and 'O' denotes One (1)
 X=['O','a','b','c','d']
@@ -18,7 +19,7 @@ import subprocess
 r1= pd.read_csv("X.csv", header=None)
 t1= pd.read_csv("Y.csv", header=None)
 h1= pd.read_csv("Homo.csv", header=None)
-
+#
 r2=pd.DataFrame(r1)
 t2=pd.DataFrame(t1)
 h2=pd.DataFrame(h1)
